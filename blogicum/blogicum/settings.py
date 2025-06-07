@@ -19,7 +19,7 @@ TEMPLATES_DIR = BASE_DIR / 'templates'
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-pbd#0yz_on)mv=pg&8o11#1jo+#(of%(wh7d%u8b0gb)94suts'
+SECRET_KEY = 'django-insecure-pbd#0yz_on)mv=pg&8o11#1jo=#(of%(wh7d%u8b0gb)46sgol'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -107,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'ru-RU'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Moscow'
 
 USE_I18N = True
 
